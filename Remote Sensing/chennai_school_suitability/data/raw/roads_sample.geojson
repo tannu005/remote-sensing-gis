@@ -1,0 +1,136 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "road_type": "highway",
+        "name": "GST Road",
+        "length_km": 45.2,
+        "lanes": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [79.8, 12.8],
+          [79.9, 12.9],
+          [80.0, 13.0],
+          [80.1, 13.05],
+          [80.2, 13.1],
+          [80.3, 13.15],
+          [80.4, 13.3]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_type": "highway",
+        "name": "Chennai Bypass",
+        "length_km": 38.5,
+        "lanes": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [79.85, 12.95],
+          [79.95, 13.05],
+          [80.05, 13.10],
+          [80.15, 13.15],
+          [80.25, 13.20],
+          [80.35, 13.25]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_type": "highway",
+        "name": "Old Mahabalipuram Road",
+        "length_km": 42.0,
+        "lanes": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [80.15, 12.85],
+          [80.18, 12.90],
+          [80.20, 12.95],
+          [80.22, 13.00],
+          [80.25, 13.05],
+          [80.28, 13.10],
+          [80.30, 13.15]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_type": "major_road",
+        "name": "Pantheon Road",
+        "length_km": 8.5,
+        "lanes": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [80.18, 13.05],
+          [80.19, 13.08],
+          [80.20, 13.10]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_type": "major_road",
+        "name": "Anna Salai",
+        "length_km": 13.2,
+        "lanes": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [80.16, 13.04],
+          [80.18, 13.05],
+          [80.20, 13.06],
+          [80.22, 13.07]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_type": "major_road",
+        "name": "Rajaji Salai",
+        "length_km": 7.8,
+        "lanes": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [80.17, 13.04],
+          [80.18, 13.045],
+          [80.19, 13.05]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_type": "local_road",
+        "name": "Tertiary Road 1",
+        "length_km": 5.0,
+        "lanes": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [80.12, 12.95],
+          [80.13, 12.97],
+          [80.14, 12.99]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+hazard_id,zone_name,latitude,longitude,hazard_type,hazard_level,risk_score,affected_area_sq_km,history_of_flooding,mitigation_status,notes
+H001,Red-Hills-Downstream,13.080,80.200,Flood-Risk,High,85,4.5,Multiple-Events,Levee-Built,Area near dam spillway
+H002,Cooum-Floodplain-1,13.050,80.210,Flood-Risk,Very-High,92,6.2,Frequent,Partial-Mitigation,Cooum river channel
+H003,Cooum-Floodplain-2,13.040,80.195,Flood-Risk,High,88,5.8,Frequent,Partial-Mitigation,Cooum secondary channel
+H004,Ayyavalu-Basin,13.020,80.175,Flood-Risk,Medium-High,72,3.5,Occasional,Minimal-Mitigation,Stream valley area
+H005,Buckingham-Canal-A,13.100,80.220,Flood-Risk,Medium,65,2.8,Rare,Well-Maintained,Canal overflow risk
+H006,Buckingham-Canal-B,13.120,80.210,Flood-Risk,Medium,62,2.5,Rare,Well-Maintained,Canal regulated
+H007,Pallikaranai-Wetland,12.950,80.200,Water-Logging,Very-High,95,8.5,Seasonal,Poor-Drainage,Regular inundation zone
+H008,Pallikaranai-Extension,12.960,80.210,Water-Logging,High,82,6.2,Seasonal,Poor-Drainage,Wetland extension
+H009,Madras-Crocodile-Park,13.030,80.280,Flood-Risk,Low,35,1.2,Very-Rare,Controlled,Pond with regulation
+H010,Muttukadu-Backwaters,13.050,80.290,Flood-Risk,Medium,58,4.8,Occasional,Monitored,Tidal influence
+H011,Tambaram-Low-Lying,13.050,80.170,Water-Logging,High,78,4.2,Occasional,Fair-Drainage,Rainwater accumulation
+H012,Velachery-Low-Zone,13.000,80.240,Water-Logging,Medium-High,70,3.8,Occasional,Average-Drainage,Improved recently
+H013,Perambur-Industrial-Drain,13.100,80.300,Flood-Risk,Low,42,1.5,Rare,Improved,Drainage infrastructure
+H014,Choolaimedu-Drain,13.045,80.185,Flood-Risk,Low,38,1.2,Very-Rare,Good,Maintained drain
+H015,Kodambakkam-Slope,13.020,80.190,Low-Lying,Medium,55,2.2,Occasional,Fair-Drainage,Minor slope issue
+H016,T-Nagar-Intersection,13.020,80.220,Flood-Risk,Low,40,0.8,Very-Rare,Good,Urban drainage
+H017,Mylapore-Low-Point,13.030,80.270,Water-Logging,Low-Medium,48,1.5,Rare,Fair-Drainage,Single low point
+H018,Semmenchery-South,13.080,80.260,Water-Logging,Medium,62,2.8,Occasional,Average-Drainage,Rainwater collection area
+H019,Ayanavaram-Valley,13.050,80.320,Water-Logging,Medium,60,2.5,Occasional,Fair-Drainage,Valley depression
+H020,Kundrathur-Stream,13.150,80.120,Flood-Risk,Medium,64,3.5,Occasional,Minimal-Mitigation,Seasonal stream
+H021,Poonamallee-Basin,13.125,80.165,Water-Logging,Medium,61,2.8,Occasional,Average-Drainage,Collection area
+H022,Thiruvallur-Nallur,12.975,80.150,Flood-Risk,Medium-High,75,4.2,Frequent,Partial-Mitigation,Stream valley
+H023,Urapakkam-Low,12.890,80.280,Water-Logging,Low,45,1.2,Rare,Minimal-Mitigation,Minor low area
+H024,Irumbuliyur-Hill-Base,12.880,80.320,Flood-Risk,Low,35,0.9,Very-Rare,Natural-Drainage,Hill runoff area
+H025,Kancheepuram-Outer,13.200,80.350,Flood-Risk,Very-Low,22,1.5,Very-Rare,Natural-Drainage,Hilly terrain
+H026,Manali-Slope-Base,13.160,80.245,Water-Logging,Low,50,1.8,Rare,Fair-Drainage,Slope runoff collection
+H027,Mogappair-Mix,13.090,80.190,Flood-Risk,Very-Low,28,0.9,Very-Rare,Good-Drainage,Good elevation
+H028,Selaiyur-Forest,12.925,80.295,Flood-Risk,Low,38,1.5,Rare,Natural-Drainage,Vegetated area
+H029,Vandalur-Water,13.030,80.285,Water-Body,N-A,0,5.2,N-A,N-A,Lake area
+H030,Northern-Buffer,13.250,80.310,Very-Low-Risk,Very-Low,15,3.2,Very-Rare,Excellent,High elevation
+H031,Southern-Coastal,13.300,80.380,Flood-Risk,Medium,68,5.5,Occasional,Fair-Mitigation,Tidal flooding
+H032,Industrial-Zone-1,13.100,80.305,Flood-Risk,Very-Low,25,2.2,Very-Rare,Good-Drainage,Elevated plateau
+H033,Industrial-Zone-2,13.090,80.310,Flood-Risk,Very-Low,20,1.8,Very-Rare,Good-Drainage,Platform area
+H034,Park-Recreation,13.080,80.240,Water-Logging,Low,52,1.5,Rare,Fair-Drainage,Designed drainage
+H035,Cemetery-Area,13.120,80.200,Flood-Risk,Very-Low,18,1.2,Very-Rare,Good-Drainage,Elevated ground
+H036,Hospital-Zone,13.050,80.260,Flood-Risk,Very-Low,22,0.8,Very-Rare,Excellent,Designed elevation
+H037,School-Zone-A,13.020,80.190,Flood-Risk,Low,45,1.5,Rare,Fair-Drainage,Monitored area
+H038,School-Zone-B,13.080,80.260,Flood-Risk,Low,42,1.2,Very-Rare,Good-Drainage,Good location
+H039,Market-Zone,13.025,80.220,Flood-Risk,Very-Low,30,0.6,Very-Rare,Excellent-Drainage,Urban commercial
+H040,Residential-Premium,13.050,80.270,Flood-Risk,Very-Low,25,2.8,Very-Rare,Excellent-Drainage,Well-planned
+hazard_statistics,OVERALL STATISTICS,13.073,80.240,Mixed,Average,54.5,140.2,50% history,50% mitigation,Citywide assessment

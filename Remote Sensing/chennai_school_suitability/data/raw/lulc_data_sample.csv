@@ -1,0 +1,32 @@
+location_id,location_name,latitude,longitude,lulc_class,lulc_description,area_sq_km,density_score,population_2025,notes
+1,Mylapore,13.03,80.27,3,Built-up/Urban,8.5,95,45000,High density residential and commercial
+2,T. Nagar,13.02,80.22,3,Built-up/Urban,6.2,92,38000,Shopping district with residential
+3,Choolaimedu,13.04,80.18,3,Built-up/Urban,7.8,88,42000,Mixed residential area
+4,Kalakshetra,12.92,80.30,1,Agriculture,12.5,15,2400,Agricultural land with scattered villages
+5,Alandur,12.98,80.25,2,Fallow Land,9.3,20,3500,Undeveloped land for potential use
+6,Kodambakkam,13.02,80.19,3,Built-up/Urban,5.5,85,35000,Residential neighborhood
+7,Ekkatuthangal,13.00,80.16,1,Agriculture,15.2,12,1800,Active agricultural area
+8,Pallikaranai,12.95,80.20,5,Vegetation/Wetland,8.0,5,400,Marshland and ecological area
+9,Kancheepuram,13.20,80.35,1,Agriculture,25.5,8,8000,Rural agricultural region
+10,Tambaram,13.05,80.18,3,Built-up/Urban,6.0,80,32000,Urban residential area
+11,Maduravoyal,13.10,80.24,2,Fallow Land,10.5,18,3200,Semi-developed area
+12,Irumbuliyur,12.88,80.32,1,Agriculture,18.5,10,2500,Agricultural zone
+13,Red Hills,13.06,80.20,1,Agriculture,7.5,12,1000,Area near Red Hills Lake
+14,Semmenchery,13.08,80.26,3,Built-up/Urban,4.5,82,28000,Urban locality
+15,Urapakkam,12.90,80.28,1,Agriculture,14.0,9,1600,Agricultural land
+16,Poonamallee,13.12,80.16,2,Fallow Land,8.8,22,2800,Developing area
+17,Kundrathur,13.15,80.12,1,Agriculture,20.0,7,2200,Rural agricultural
+18,Perambur,13.10,80.30,3,Built-up/Urban,5.2,75,25000,Industrial and residential
+19,Velachery,13.00,80.24,3,Built-up/Urban,6.8,87,40000,Residential with commercial
+20,Ayanavaram,13.05,80.32,1,Agriculture,12.0,14,2100,Semi-rural area
+21,Keesaragaruppan,13.20,80.14,6,Barren Land,5.5,5,200,Unproductive barren area
+22,Villianur,12.92,80.34,1,Agriculture,16.5,11,2400,Agricultural farmland
+23,Red Hills Industrial,13.08,80.18,3,Built-up/Urban,3.2,70,18000,Industrial zone
+24,Thiruvallur,12.97,80.15,2,Fallow Land,7.5,19,2700,Potential development area
+25,Thalambur,13.18,80.28,1,Agriculture,11.0,13,1900,Active farming region
+26,Manali,13.16,80.24,3,Built-up/Urban,4.8,78,26000,Urban neighborhood
+27,Mogappair,13.09,80.19,3,Built-up/Urban,5.5,81,30000,Residential locality
+28,Selaiyur,12.93,80.29,5,Vegetation,6.5,8,600,Forest/vegetation area
+29,Vandalur,13.03,80.28,4,Water Body,5.2,2,0,Lake area (water)
+30,Anakaputhur,13.22,80.32,1,Agriculture,18.5,10,2800,Agricultural land
+suitability_summary,Average Area per Class,14.2,13.8,,,9.5,31.5,12500,Average values across all locations

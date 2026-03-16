@@ -1,0 +1,62 @@
+
+======================================================================
+SITE SUITABILITY ANALYSIS REPORT
+High School Location Selection in Chennai
+======================================================================
+
+ANALYSIS PARAMETERS:
+----------------------------------------------------------------------
+Study Area: Chennai, India
+Resolution: 30 meters
+Coordinate System: EPSG:4326
+
+CRITERIA WEIGHTS:
+----------------------------------------------------------------------
+  Lulc Suitable: 20.0%
+  Population Density: 15.0%
+  Distance From Roads: 15.0%
+  Distance From Schools: 15.0%
+  Distance From Water: 15.0%
+  Slope Suitability: 12.0%
+  Hazard Zones: 8.0%
+
+SUITABILITY STATISTICS:
+----------------------------------------------------------------------
+Minimum Suitability Score: 27.95
+Maximum Suitability Score: 67.65
+Mean Suitability Score: 52.23
+Median Suitability Score: 51.82
+Standard Deviation: 5.25
+
+CLASSIFICATION BREAKDOWN:
+----------------------------------------------------------------------
+  Not Suitable: 1 cells (0.00%)
+  Less Suitable: 16563 cells (41.41%)
+  Moderately Suitable: 23436 cells (58.59%)
+  Suitable: 0 cells (0.00%)
+  Highly Suitable: 0 cells (0.00%)
+
+OUTPUT FILES GENERATED:
+----------------------------------------------------------------------
+  - Suitability Map (Continuous): suitability_map.tif
+  - Classified Suitability Map: suitability_classified.tif
+  - LULC Suitability: lulc_suitability.tif
+  - Population Suitability: population_suitability.tif
+  - Slope Suitability: slope_suitability.tif
+
+RECOMMENDATIONS:
+----------------------------------------------------------------------
+1. Focus site selection on highly suitable areas (85-100 score)
+2. Avoid areas marked as "not_suitable" due to hazards or constraints
+3. Consider accessibility, land availability, and infrastructure
+4. Validate recommended sites through field surveys
+5. Consult with local authorities for final approvals
+
+NEXT STEPS:
+----------------------------------------------------------------------
+1. Identify top candidate locations from the suitability map
+2. Conduct environmental and social impact assessments
+3. Perform stakeholder consultations
+4. Finalize site selection through multi-criteria decision analysis
+
+======================================================================

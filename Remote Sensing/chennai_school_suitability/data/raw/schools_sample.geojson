@@ -1,0 +1,230 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Government High School, Mylapore",
+        "school_type": "government",
+        "students": 850,
+        "year_established": 1924,
+        "principal": "Dr. Ramesh Kumar",
+        "contact": "044-24990123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.27, 13.03]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. George's High School",
+        "school_type": "private",
+        "students": 1200,
+        "year_established": 1881,
+        "principal": "Rev. Fr. Augustine",
+        "contact": "044-28111234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.19, 13.06]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chettinad Vidya Mandir",
+        "school_type": "private",
+        "students": 950,
+        "year_established": 1987,
+        "principal": "Mrs. Priya Sharma",
+        "contact": "044-22431000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.22, 13.02]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vivekananda High School",
+        "school_type": "government",
+        "students": 720,
+        "year_established": 1956,
+        "principal": "Mr. Suresh",
+        "contact": "044-24567890"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.25, 13.08]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DAV Public School",
+        "school_type": "private",
+        "students": 1100,
+        "year_established": 1995,
+        "principal": "Dr. Anjali Gupta",
+        "contact": "044-24119876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.16, 13.01]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stella Maris High School",
+        "school_type": "private",
+        "students": 880,
+        "year_established": 1945,
+        "principal": "Sr. Mary Frances",
+        "contact": "044-24646123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.28, 13.04]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Choolaimedu Government School",
+        "school_type": "government",
+        "students": 650,
+        "year_established": 1932,
+        "principal": "Mrs. Lakshmi",
+        "contact": "044-24987654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.18, 13.04]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sri Aurobindo Pathamandir",
+        "school_type": "private",
+        "students": 920,
+        "year_established": 1989,
+        "principal": "Dr. Rajesh Nair",
+        "contact": "044-24451122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.21, 13.07]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mother Teresa School",
+        "school_type": "private",
+        "students": 1050,
+        "year_established": 1976,
+        "principal": "Sr. Theresa",
+        "contact": "044-24789123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.14, 13.05]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PSBB School",
+        "school_type": "private",
+        "students": 1300,
+        "year_established": 1995,
+        "principal": "Mr. Arun Kumar",
+        "contact": "044-24123456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.24, 13.09]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Government School, Kodambakkam",
+        "school_type": "government",
+        "students": 780,
+        "year_established": 1948,
+        "principal": "Mr. Ravi",
+        "contact": "044-24555789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.19, 13.02]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DPS Chennai",
+        "school_type": "private",
+        "students": 1400,
+        "year_established": 1998,
+        "principal": "Dr. Sunita Sharma",
+        "contact": "044-24567777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.23, 12.99]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GEAR International School",
+        "school_type": "private",
+        "students": 1150,
+        "year_established": 2001,
+        "principal": "Mr. Vikram Singh",
+        "contact": "044-24234234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.26, 13.05]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Government High School, Thiruvallur",
+        "school_type": "government",
+        "students": 620,
+        "year_established": 1925,
+        "principal": "Mr. Hariharan",
+        "contact": "044-24987123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.15, 12.97]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sri Ramakrishna School",
+        "school_type": "private",
+        "students": 1000,
+        "year_established": 1985,
+        "principal": "Swami Ananda",
+        "contact": "044-24112233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.20, 13.08]
+      }
+    }
+  ]
+}

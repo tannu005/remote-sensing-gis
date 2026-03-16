@@ -1,0 +1,186 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red Hills Reservoir",
+        "type": "reservoir",
+        "area_sq_km": 25.5,
+        "depth_m": 4.5,
+        "water_quality": "moderate",
+        "usage": "drinking_water"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [80.18, 13.05],
+            [80.22, 13.05],
+            [80.22, 13.08],
+            [80.18, 13.08],
+            [80.18, 13.05]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chembarambakkam Lake",
+        "type": "lake",
+        "area_sq_km": 24.0,
+        "depth_m": 3.8,
+        "water_quality": "poor",
+        "usage": "regulation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [80.10, 13.12],
+            [80.15, 13.12],
+            [80.15, 13.18],
+            [80.10, 13.18],
+            [80.10, 13.12]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muttukadu Backwaters",
+        "type": "backwater",
+        "area_sq_km": 12.5,
+        "depth_m": 1.5,
+        "water_quality": "brackish",
+        "usage": "fishing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [80.30, 12.88],
+            [80.35, 12.88],
+            [80.35, 12.92],
+            [80.30, 12.92],
+            [80.30, 12.88]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cooum River",
+        "type": "river",
+        "length_km": 64.0,
+        "width_m": 45,
+        "water_quality": "poor",
+        "usage": "drainage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [80.12, 12.95],
+          [80.15, 12.98],
+          [80.18, 13.01],
+          [80.20, 13.04],
+          [80.22, 13.06],
+          [80.25, 13.08],
+          [80.28, 13.10]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayyavalu River",
+        "type": "river",
+        "length_km": 45.0,
+        "width_m": 30,
+        "water_quality": "fair",
+        "usage": "drainage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [80.05, 12.85],
+          [80.10, 12.90],
+          [80.15, 12.95],
+          [80.20, 13.00],
+          [80.25, 13.05]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buckingham Canal",
+        "type": "canal",
+        "length_km": 160.0,
+        "width_m": 35,
+        "water_quality": "poor",
+        "usage": "transportation"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [80.08, 12.80],
+          [80.10, 12.90],
+          [80.12, 13.00],
+          [80.14, 13.10],
+          [80.16, 13.15],
+          [80.18, 13.20]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pallikaranai Marshland (East)",
+        "type": "wetland",
+        "area_sq_km": 8.5,
+        "depth_m": 0.5,
+        "water_quality": "poor",
+        "usage": "ecological"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [80.17, 12.92],
+            [80.22, 12.92],
+            [80.22, 12.98],
+            [80.17, 12.98],
+            [80.17, 12.92]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madras Crocodile Park Pond",
+        "type": "artificial_pond",
+        "area_sq_km": 0.85,
+        "depth_m": 2.0,
+        "water_quality": "fair",
+        "usage": "research"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [80.24, 12.95],
+            [80.26, 12.95],
+            [80.26, 12.97],
+            [80.24, 12.97],
+            [80.24, 12.95]
+          ]
+        ]
+      }
+    }
+  ]
+}
