@@ -506,9 +506,7 @@ with st.expander("📖 Methodology & Data Sources"):
 
 st.markdown("---")
 st.markdown(f"""<div style='text-align:center;font-family:Space Mono,monospace;font-size:.75rem;color:#8b949e;padding:1rem 0;'>
-🛰️ <b>India Space Lab</b> — Winter Internship 2026 &nbsp;|&nbsp;
-<b>Tannu Yadav</b> |&nbsp;
+🛰️ <b>India Space Lab</b> — Winter Internship 2026 &nbsp;|&nbsp; <b>Tannu Yadav</b> |&nbsp;
 Remote Sensing & GIS 
 </div>
 """, unsafe_allow_html=True)
-
