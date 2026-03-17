@@ -164,7 +164,7 @@ def generate_base_layers():
         lulc_base[mask] = np.random.choice([1, 2, 3, 4, 5, 6])
     lulc_score = np.where(lulc_base == 1, 70, np.where(lulc_base == 2, 80,
                   np.where(lulc_base == 3, 50, np.where(lulc_base == 4, 0,
-                  np.where(lulc_base == 5, 60, 40)))))
+                  np.where(lulc_base == 5, 60, 40))))).astype(float)
     lulc_score = lulc_score + np.random.normal(0, 5, (GRID_H, GRID_W))
     lulc_score = np.clip(lulc_score, 0, 100)
 
@@ -181,7 +181,7 @@ def generate_base_layers():
     dem = np.random.normal(10, 3, (GRID_H, GRID_W))
     dem = np.clip(dem, 0, 30)
     slope_score = np.where(dem <= 2, 100, np.where(dem <= 5, 90,
-                   np.where(dem <= 15, 70, np.where(dem <= 30, 30, 0))))
+                   np.where(dem <= 15, 70, np.where(dem <= 30, 30, 0)))).astype(float)
     slope_score += np.random.normal(0, 4, (GRID_H, GRID_W))
     slope_score = np.clip(slope_score, 0, 100)
 
