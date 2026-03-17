@@ -574,7 +574,7 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align:center;font-family:Space Mono,monospace;font-size:0.75rem;color:#8b949e;padding:1rem 0;'>
 🛰️ <b>India Space Lab</b> — Winter Internship Technical Training Program 2026 &nbsp;|&nbsp;
-<b>Tannu Yadav</b> · VIT-AP · 23BCE9096 &nbsp;|&nbsp;
+<b>Tannu Yadav</b> |&nbsp;
 Remote Sensing & GIS · Advanced Drone Technology · Disaster Management
 </div>
 """, unsafe_allow_html=True)
