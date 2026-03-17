@@ -313,7 +313,6 @@ with st.sidebar:
     st.markdown("""
     <div style='font-size:0.75rem;color:#8b949e;'>
     <b>Tannu Yadav</b><br>
-    VIT-AP · 23BCE9096<br>
     India Space Lab Intern
     </div>
     """, unsafe_allow_html=True)
